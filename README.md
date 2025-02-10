@@ -2,8 +2,8 @@
 
 ## AINN-LAB
 ### Name: Bhupesh bhatt
-### Roll no : 221745
-### Email : subash.221745@ncit.edu.np
+### Roll no : 221708
+### Email : bhupesh.221708@ncit.edu.np
 
 | S.N | Title                                                                  | Date              | Remark |
 |-----|------------------------------------------------------------------------|-------------------|--------|
